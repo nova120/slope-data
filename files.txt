@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/nova120/slope-games/main/test.sprite3,
+https://raw.githubusercontent.com/nova120/slope-games/main/testgame.sprite3
